@@ -1,5 +1,5 @@
-public class PrintAsciiValueExample1   
-{  
+public class Ascii 
+{
 public static void main(String[] args)   
 {  
 // character whose ASCII value to be found  
